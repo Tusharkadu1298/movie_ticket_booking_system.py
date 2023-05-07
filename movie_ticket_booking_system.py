@@ -1,6 +1,8 @@
 print("*"*40)
 print("welcome to movie cinema")
 print("*"*40)
+name = input("enter your name :--")
+print("welcome", name )
 print('''
 press 1 to watch fast x
 press 2 to watch the super mario
